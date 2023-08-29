@@ -21,6 +21,10 @@ namespace StopWatch
                 Console.WriteLine(currentTime);
                 Thread.Sleep(1000);
             }
+
+            Console.Clear();
+            Console.WriteLine("StopWatch finalizado");
+            Thread.Sleep(2500);
         }
     }
 }
