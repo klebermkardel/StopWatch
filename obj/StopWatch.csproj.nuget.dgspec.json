@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Projetos\\Projetos C#\\StopWatch\\StopWatch.csproj": {}
+    "c:\\Users\\55119\\OneDrive\\Área de Trabalho\\Projetos\\Projetos C#\\StopWatch\\StopWatch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Projetos\\Projetos C#\\StopWatch\\StopWatch.csproj": {
+    "c:\\Users\\55119\\OneDrive\\Área de Trabalho\\Projetos\\Projetos C#\\StopWatch\\StopWatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Projetos\\Projetos C#\\StopWatch\\StopWatch.csproj",
+        "projectUniqueName": "c:\\Users\\55119\\OneDrive\\Área de Trabalho\\Projetos\\Projetos C#\\StopWatch\\StopWatch.csproj",
         "projectName": "StopWatch",
-        "projectPath": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Projetos\\Projetos C#\\StopWatch\\StopWatch.csproj",
+        "projectPath": "c:\\Users\\55119\\OneDrive\\Área de Trabalho\\Projetos\\Projetos C#\\StopWatch\\StopWatch.csproj",
         "packagesPath": "C:\\Users\\55119\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Projetos\\Projetos C#\\StopWatch\\obj\\",
+        "outputPath": "c:\\Users\\55119\\OneDrive\\Área de Trabalho\\Projetos\\Projetos C#\\StopWatch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\55119\\AppData\\Roaming\\NuGet\\NuGet.Config",
